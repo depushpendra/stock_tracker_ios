@@ -309,6 +309,19 @@ The demo uses [`EchoPriceFeedEngine`](Packages/Data/Sources/Data/EchoPriceFeedEn
 | [docs/OPERATIONS.md](docs/OPERATIONS.md) | Telemetry, metrics, health checks |
 | [Packages/README.md](Packages/README.md) | SPM dependency graph and test commands |
 
+
+Video 
+
+
+
+
+https://github.com/user-attachments/assets/d86fcf44-210e-4b95-b898-2db0e1b88230
+
+
+
+
+
+
 ---
 
 ## License
