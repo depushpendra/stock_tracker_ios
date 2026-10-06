@@ -1,0 +1,620 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "By Price": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By Price"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حسب السعر"
+          }
+        }
+      }
+    },
+    "By Price Change": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By Price Change"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حسب التغير"
+          }
+        }
+      }
+    },
+    "Connected": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connected"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "متصل"
+          }
+        }
+      }
+    },
+    "Connecting": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connecting"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جاري الاتصال"
+          }
+        }
+      }
+    },
+    "Connection failed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connection failed"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فشل الاتصال"
+          }
+        }
+      }
+    },
+    "Disconnected": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disconnected"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "غير متصل"
+          }
+        }
+      }
+    },
+    "Down %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Down %@"
+          }
+        }
+      }
+    },
+    "No change": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No change"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا تغيير"
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sort"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ترتيب"
+          }
+        }
+      }
+    },
+    "Start": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بدء"
+          }
+        }
+      }
+    },
+    "Stocks": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stocks"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الأسهم"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stop"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إيقاف"
+          }
+        }
+      }
+    },
+    "symbol.aapl.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple designs consumer electronics, software, and online services including iPhone, Mac, and services."
+          }
+        }
+      }
+    },
+    "symbol.abnb.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Airbnb operates a marketplace for short-term stays and travel experiences."
+          }
+        }
+      }
+    },
+    "symbol.adbe.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adobe offers creative, document, and experience cloud software for professionals."
+          }
+        }
+      }
+    },
+    "symbol.amd.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AMD develops high-performance CPUs and GPUs for PCs, servers, and consoles."
+          }
+        }
+      }
+    },
+    "symbol.amzn.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amazon operates e-commerce, cloud computing (AWS), and digital streaming services."
+          }
+        }
+      }
+    },
+    "symbol.ba.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boeing designs and manufactures commercial aircraft, defense, and space systems."
+          }
+        }
+      }
+    },
+    "symbol.coin.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coinbase operates a cryptocurrency exchange and financial infrastructure platform."
+          }
+        }
+      }
+    },
+    "symbol.crm.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salesforce delivers cloud-based CRM and enterprise application software."
+          }
+        }
+      }
+    },
+    "symbol.dis.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disney creates media, entertainment, theme park, and streaming content worldwide."
+          }
+        }
+      }
+    },
+    "symbol.goog.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alphabet is the parent company of Google, offering search, cloud, and AI platforms worldwide."
+          }
+        }
+      }
+    },
+    "symbol.ibm.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IBM delivers hybrid cloud, AI, and consulting solutions for enterprise customers."
+          }
+        }
+      }
+    },
+    "symbol.intc.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intel designs and manufactures semiconductors for computing and data infrastructure."
+          }
+        }
+      }
+    },
+    "symbol.jpm.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JPMorgan Chase is a global financial services firm offering banking and investment products."
+          }
+        }
+      }
+    },
+    "symbol.ma.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mastercard provides transaction processing and payment technology services globally."
+          }
+        }
+      }
+    },
+    "symbol.meta.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meta operates social platforms and invests in virtual and augmented reality."
+          }
+        }
+      }
+    },
+    "symbol.msft.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Microsoft builds cloud, productivity, gaming, and enterprise software products."
+          }
+        }
+      }
+    },
+    "symbol.nflx.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Netflix provides subscription streaming entertainment across global markets."
+          }
+        }
+      }
+    },
+    "symbol.nvda.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NVIDIA designs GPUs and accelerated computing platforms for AI and data centers."
+          }
+        }
+      }
+    },
+    "symbol.orcl.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oracle provides database, cloud infrastructure, and enterprise business applications."
+          }
+        }
+      }
+    },
+    "symbol.pypl.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PayPal enables digital payments and commerce solutions for consumers and merchants."
+          }
+        }
+      }
+    },
+    "symbol.shop.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shopify provides commerce tools for merchants to build and scale online stores."
+          }
+        }
+      }
+    },
+    "symbol.tsla.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tesla develops electric vehicles, energy storage, and autonomous driving technology."
+          }
+        }
+      }
+    },
+    "symbol.uber.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uber operates mobility and delivery platforms connecting riders, drivers, and couriers."
+          }
+        }
+      }
+    },
+    "symbol.v.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visa operates a global payments network connecting financial institutions and merchants."
+          }
+        }
+      }
+    },
+    "symbol.wmt.description": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Walmart operates retail, e-commerce, and supply chain businesses at global scale."
+          }
+        }
+      }
+    },
+    "Up %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Up %@"
+          }
+        }
+      }
+    },
+    "Market data": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Market data" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "بيانات السوق" } }
+      }
+    },
+    "Currency": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Currency" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "العملة" } }
+      }
+    },
+    "Exchange": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Exchange" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "البورصة" } }
+      }
+    },
+    "Sector": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Sector" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "القطاع" } }
+      }
+    },
+    "Country": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Country" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "الدولة" } }
+      }
+    },
+    "Session change": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Session change" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "تغير الجلسة" } }
+      }
+    },
+    "Session change %": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Session change %" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "نسبة تغير الجلسة" } }
+      }
+    },
+    "Tick change": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Tick change" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "تغير آخر tick" } }
+      }
+    },
+    "Session open": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Session open" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "سعر افتتاح الجلسة" } }
+      }
+    },
+    "Last updated": {
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Last updated" } },
+        "ar": { "stringUnit": { "state": "translated", "value": "آخر تحديث" } }
+      }
+    },
+    "About": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نبذة"
+          }
+        }
+      }
+    },
+    "Layout direction": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Layout direction"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اتجاه التخطيط"
+          }
+        }
+      }
+    },
+    "Automatic": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatic"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تلقائي"
+          }
+        }
+      }
+    },
+    "Left to right": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Left to right"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "من اليسار إلى اليمين"
+          }
+        }
+      }
+    },
+    "Right to left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Right to left"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "من اليمين إلى اليسار"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0",
+  "localizations": {
+    "ar": {}
+  }
+}

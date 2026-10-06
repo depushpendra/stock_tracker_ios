@@ -1,0 +1,28 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+**/xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/configuration/
+.swiftpm/xcode/xcuserdata/
+Package.resolved
+
+# Test artifacts
+*.xcresult/
+TestResults.xcresult/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Env / secrets
+.env
+*.pem

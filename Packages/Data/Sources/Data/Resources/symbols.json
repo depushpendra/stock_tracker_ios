@@ -1,0 +1,252 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "description": "Apple designs consumer electronics, software, and online services including iPhone, Mac, and services.",
+    "seedPrice": 189.25,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Consumer Electronics",
+    "country": "United States"
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc. Class C",
+    "description": "Alphabet is the parent company of Google, offering search, cloud, and AI platforms worldwide.",
+    "seedPrice": 171.4,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Internet Services",
+    "country": "United States"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "description": "Tesla develops electric vehicles, energy storage, and autonomous driving technology.",
+    "seedPrice": 248.5,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Automotive",
+    "country": "United States"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "description": "Amazon operates e-commerce, cloud computing (AWS), and digital streaming services.",
+    "seedPrice": 186.75,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "E-Commerce",
+    "country": "United States"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "description": "Microsoft builds cloud, productivity, gaming, and enterprise software products.",
+    "seedPrice": 415.2,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Software",
+    "country": "United States"
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "description": "NVIDIA designs GPUs and accelerated computing platforms for AI and data centers.",
+    "seedPrice": 875.3,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Semiconductors",
+    "country": "United States"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "description": "Meta operates social platforms and invests in virtual and augmented reality.",
+    "seedPrice": 512.1,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Social Media",
+    "country": "United States"
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix Inc.",
+    "description": "Netflix provides subscription streaming entertainment across global markets.",
+    "seedPrice": 628.45,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Entertainment",
+    "country": "United States"
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "description": "AMD develops high-performance CPUs and GPUs for PCs, servers, and consoles.",
+    "seedPrice": 162.8,
+    "currencyCode": "INR",
+    "exchange": "NASDAQ",
+    "sector": "Semiconductors",
+    "country": "India"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "description": "Intel designs and manufactures semiconductors for computing and data infrastructure.",
+    "seedPrice": 31.55,
+    "currencyCode": "INR",
+    "exchange": "NASDAQ",
+    "sector": "Semiconductors",
+    "country": "India"
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce Inc.",
+    "description": "Salesforce delivers cloud-based CRM and enterprise application software.",
+    "seedPrice": 272.9,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Enterprise Software",
+    "country": "United States"
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "description": "Oracle provides database, cloud infrastructure, and enterprise business applications.",
+    "seedPrice": 128.15,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Enterprise Software",
+    "country": "United States"
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "description": "Adobe offers creative, document, and experience cloud software for professionals.",
+    "seedPrice": 525.6,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Creative Software",
+    "country": "United States"
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "description": "PayPal enables digital payments and commerce solutions for consumers and merchants.",
+    "seedPrice": 64.2,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Payments",
+    "country": "United States"
+  },
+  {
+    "symbol": "SHOP",
+    "name": "Shopify Inc.",
+    "description": "Shopify provides commerce tools for merchants to build and scale online stores.",
+    "seedPrice": 72.35,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "E-Commerce",
+    "country": "Canada"
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies Inc.",
+    "description": "Uber operates mobility and delivery platforms connecting riders, drivers, and couriers.",
+    "seedPrice": 78.9,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Transportation",
+    "country": "United States"
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb Inc.",
+    "description": "Airbnb operates a marketplace for short-term stays and travel experiences.",
+    "seedPrice": 142.7,
+    "currencyCode": "AED",
+    "exchange": "NASDAQ",
+    "sector": "Travel",
+    "country": "United Arab Emirates"
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinbase Global Inc.",
+    "description": "Coinbase operates a cryptocurrency exchange and financial infrastructure platform.",
+    "seedPrice": 215.4,
+    "currencyCode": "USD",
+    "exchange": "NASDAQ",
+    "sector": "Financial Services",
+    "country": "United States"
+  },
+  {
+    "symbol": "BA",
+    "name": "The Boeing Company",
+    "description": "Boeing designs and manufactures commercial aircraft, defense, and space systems.",
+    "seedPrice": 178.25,
+    "currencyCode": "AED",
+    "exchange": "NYSE",
+    "sector": "Aerospace",
+    "country": "United Arab Emirates"
+  },
+  {
+    "symbol": "DIS",
+    "name": "The Walt Disney Company",
+    "description": "Disney creates media, entertainment, theme park, and streaming content worldwide.",
+    "seedPrice": 95.8,
+    "currencyCode": "AED",
+    "exchange": "NYSE",
+    "sector": "Entertainment",
+    "country": "United Arab Emirates"
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "description": "JPMorgan Chase is a global financial services firm offering banking and investment products.",
+    "seedPrice": 198.65,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Banking",
+    "country": "United States"
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "description": "Visa operates a global payments network connecting financial institutions and merchants.",
+    "seedPrice": 278.4,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Payments",
+    "country": "United States"
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Incorporated",
+    "description": "Mastercard provides transaction processing and payment technology services globally.",
+    "seedPrice": 462.15,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Payments",
+    "country": "United States"
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "description": "Walmart operates retail, e-commerce, and supply chain businesses at global scale.",
+    "seedPrice": 68.5,
+    "currencyCode": "USD",
+    "exchange": "NYSE",
+    "sector": "Retail",
+    "country": "United States"
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines",
+    "description": "IBM delivers hybrid cloud, AI, and consulting solutions for enterprise customers.",
+    "seedPrice": 175.3,
+    "currencyCode": "INR",
+    "exchange": "NYSE",
+    "sector": "IT Services",
+    "country": "India"
+  }
+]
